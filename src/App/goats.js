@@ -42,7 +42,7 @@ const goats = [
   },
   {
     id: 'goat5',
-    name: 'silly',
+    name: 'silly billy',
     disposition: 'goofy',
     imageUrl: 'https://i.pinimg.com/originals/d2/db/24/d2db24911e52165293150439f03a4e11.jpg',
     favPose: 'childs pose',
